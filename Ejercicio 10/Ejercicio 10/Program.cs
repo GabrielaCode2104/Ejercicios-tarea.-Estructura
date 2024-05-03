@@ -1,6 +1,6 @@
 ﻿// 10 Genera los primeros 10 números de la serie Fibonacci. 
 
-Console.WriteLine("LOS 10 PRIMEROS NUMEROS DE LA SERIE FIBONACCI SON :");
+Console.WriteLine("LOS 10 PRIMEROS NUMEROS DE LA SERIE FIBONACCI SON: ");
 int num1 = 0;
 int num2 = 1;
 
