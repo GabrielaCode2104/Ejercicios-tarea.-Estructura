@@ -8,6 +8,7 @@ n2 = int.Parse(Console.ReadLine());
 
 
 // RESOLUCION
+
 suma = n + n2;
 resta = n - n2;
 multiplicacion = n * n2;
@@ -27,6 +28,6 @@ else
 Console.WriteLine($"La suma es:  {suma}");
 Console.WriteLine($"La resta es: {resta}");
 Console.WriteLine($"La multiplicación es: {multiplicacion}");
-Console.WriteLine($"La división es: {Math.Round(division, 2)}");
+Console.WriteLine($"La división es: {Math.Round(division, 1)}");
 
 Console.ReadLine();
